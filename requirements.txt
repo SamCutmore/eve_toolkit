@@ -1,0 +1,6 @@
+requests
+flask
+redis
+tqdm
+mysql-connector-python
+pandas
